@@ -1,7 +1,5 @@
 # API collections for recon & development  
 
-Index
-
     - Anti-Malware
     - Art & Design
     - Authentication & Authorization
